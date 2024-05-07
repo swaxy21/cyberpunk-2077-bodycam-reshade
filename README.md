@@ -11,14 +11,14 @@ Version 2.0 available!
 
 ![](https://i.imgur.com/Br6IUqB.png)
 
-## Installation
+## ⬇️ Installation
 
-Windows:
+🪟 Windows:
 
 - Download the mod from release.
 - Unzip & run the installer.
 
-## Release History
+## 📝 Release History
 
 * 1.8
     * ADD: Bodycam FX like unrecord
@@ -27,7 +27,7 @@ Windows:
     * CHANGE: Reducing blur and green tint
     * ADD: 8k Textures support
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork it (<https://github.com/swaxy21/cyberpunk-2077-bodycam-reshade/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
