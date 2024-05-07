@@ -15,7 +15,7 @@ Version 2.0 available!
 
 🪟 Windows:
 
-- Download the mod from release.
+- [Download](https://github.com/swaxy21/cyberpunk-2077-bodycam-reshade/releases/download/Release/cyberpunk-2077-bodycam_reshade.zip) the mod from release.
 - Unzip & run the installer.
 
 ## 📝 Release History
